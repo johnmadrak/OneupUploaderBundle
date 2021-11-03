@@ -50,7 +50,7 @@
         "doctrine/doctrine-bundle": "^2.4",
         "friendsofphp/php-cs-fixer": "^2.16",
         "knplabs/gaufrette": "^0.9",
-        "oneup/flysystem-bundle": "^1.2 || ^2.0 || ^3.0",
+        "oneup/flysystem-bundle": "^4.1",
         "phpstan/phpstan": "^0.12.10",
         "phpunit/phpunit": "^9.5",
         "sensio/framework-extra-bundle": "^5.0 || ^6.0",
@@ -63,7 +63,7 @@
     "suggest": {
         "knplabs/knp-gaufrette-bundle": "0.1.*",
         "oneup/flysystem-bundle": "^3.0",
-        "twistor/flysystem-stream-wrapper": "^1.0 (Required when using Flysystem)"
+        "m2mtech/flysystem-stream-wrapper": "^1.0 (Required when using Flysystem)"
     },
     "config": {
         "sort-packages": true
